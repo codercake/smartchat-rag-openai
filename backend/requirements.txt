@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+redis
+langchain
+langchain-community
+langsmith==0.0.56
+python-dotenv
+PyMuPDF
